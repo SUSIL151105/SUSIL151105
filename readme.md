@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm Susil, a passionate Fullstack developer, open-
 - 🇬🇧 English (Professional)
 - 🇮🇳 Hindi 
 - ODIA (Native)
--🌏 Learning: GERMAN
+- 🌏 Learning: GERMAN
 
 ## 📫 How to reach me
 
