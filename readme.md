@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Susil, a passionate Fullstack developer, open-
 - **Frameworks & Libraries:** Spring.js, Node.js, Django, TensorFlow
 - **DevOps & Tools:** Git, AWS, VS Code
 - **Databases:** MySQL, MongoDB, Firebase
-- **Other:** REST API development, CI/CD pipelines, Unit Testing, Agile methodologies
+- **Other:** REST API development, CI/CD pipelines, Unit Testing.
 
 ## 📂 Featured Projects
 
