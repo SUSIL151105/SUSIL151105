@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Susil, a passionate Fullstack developer, open-
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com
+- Email: susilmoharana775@gmail.com
 - LinkedIn: [susil moharana](https://www.linkedin.com/in/susil-moharana-694bb4312)
 - Instagram: [@aura_of_aries_15](https://twitter.com/)
 - Portfolio: [my portfolio.com](https://chocolate-kyle-81.tiiny.site)
